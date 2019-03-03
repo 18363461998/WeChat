@@ -1,0 +1,236 @@
+[02-Mar-2019 14:28:40 PRC] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION), expecting ',' or ';' in D:\work\www.wx.com\info.php on line 5
+[02-Mar-2019 14:28:48 PRC] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION), expecting ',' or ';' in D:\work\www.wx.com\info.php on line 5
+[02-Mar-2019 14:29:33 PRC] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION), expecting ',' or ';' in D:\work\www.wx.com\info.php on line 5
+[02-Mar-2019 14:29:55 PRC] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION), expecting ',' or ';' in D:\work\www.wx.com\info.php on line 5
+[02-Mar-2019 14:30:03 PRC] PHP Notice:  Undefined index: signature in D:\work\www.wx.com\info.php on line 7
+[02-Mar-2019 14:30:03 PRC] PHP Notice:  Undefined index: timestamp in D:\work\www.wx.com\info.php on line 8
+[02-Mar-2019 14:30:03 PRC] PHP Notice:  Undefined index: nonce in D:\work\www.wx.com\info.php on line 9
+[02-Mar-2019 14:30:03 PRC] PHP Notice:  Undefined index: echistr in D:\work\www.wx.com\info.php on line 10
+[02-Mar-2019 14:30:20 PRC] PHP Notice:  Undefined index: echistr in D:\work\www.wx.com\info.php on line 10
+[02-Mar-2019 14:30:20 PRC] PHP Warning:  Illegal string offset 'nonce' in D:\work\www.wx.com\info.php on line 14
+[02-Mar-2019 14:46:49 PRC] PHP Notice:  Undefined index: echistr in D:\work\www.wx.com\info.php on line 10
+[02-Mar-2019 14:46:49 PRC] PHP Warning:  Illegal string offset 'nonce' in D:\work\www.wx.com\info.php on line 14
+[02-Mar-2019 14:46:51 PRC] PHP Notice:  Undefined index: echistr in D:\work\www.wx.com\info.php on line 10
+[02-Mar-2019 14:46:51 PRC] PHP Warning:  Illegal string offset 'nonce' in D:\work\www.wx.com\info.php on line 14
+[02-Mar-2019 14:47:10 PRC] PHP Notice:  Undefined index: signature in D:\work\www.wx.com\info.php on line 7
+[02-Mar-2019 14:47:10 PRC] PHP Notice:  Undefined index: timestamp in D:\work\www.wx.com\info.php on line 8
+[02-Mar-2019 14:47:10 PRC] PHP Notice:  Undefined index: nonce in D:\work\www.wx.com\info.php on line 9
+[02-Mar-2019 14:47:10 PRC] PHP Notice:  Undefined index: echistr in D:\work\www.wx.com\info.php on line 10
+[02-Mar-2019 14:47:13 PRC] PHP Notice:  Undefined index: signature in D:\work\www.wx.com\info.php on line 7
+[02-Mar-2019 14:47:13 PRC] PHP Notice:  Undefined index: timestamp in D:\work\www.wx.com\info.php on line 8
+[02-Mar-2019 14:47:13 PRC] PHP Notice:  Undefined index: nonce in D:\work\www.wx.com\info.php on line 9
+[02-Mar-2019 14:47:13 PRC] PHP Notice:  Undefined index: echistr in D:\work\www.wx.com\info.php on line 10
+[02-Mar-2019 14:48:24 PRC] PHP Notice:  Undefined index: echistr in D:\work\www.wx.com\info.php on line 10
+[02-Mar-2019 14:48:24 PRC] PHP Warning:  Illegal string offset 'nonce' in D:\work\www.wx.com\info.php on line 14
+[02-Mar-2019 14:48:59 PRC] PHP Notice:  Undefined index: echistr in D:\work\www.wx.com\info.php on line 10
+[02-Mar-2019 14:50:29 PRC] PHP Notice:  Undefined index: signature in D:\work\www.wx.com\info.php on line 7
+[02-Mar-2019 14:50:29 PRC] PHP Notice:  Undefined index: timestamp in D:\work\www.wx.com\info.php on line 8
+[02-Mar-2019 14:50:29 PRC] PHP Notice:  Undefined index: nonce in D:\work\www.wx.com\info.php on line 9
+[02-Mar-2019 14:50:29 PRC] PHP Notice:  Undefined index: echistr in D:\work\www.wx.com\info.php on line 10
+[02-Mar-2019 14:51:46 PRC] PHP Notice:  Undefined index: echistr in D:\work\www.wx.com\info.php on line 10
+[02-Mar-2019 19:47:25 PRC] PHP Notice:  Undefined index: echostr in D:\work\www.wx.com\info.php on line 12
+[02-Mar-2019 19:57:54 PRC] PHP Notice:  Undefined index: echostr in D:\work\www.wx.com\info.php on line 12
+[02-Mar-2019 20:25:59 PRC] PHP Parse error:  syntax error, unexpected ':' in D:\work\www.wx.com\info.php on line 31
+[02-Mar-2019 20:26:23 PRC] PHP Notice:  Undefined variable: xml in D:\work\www.wx.com\info.php on line 23
+[02-Mar-2019 20:26:23 PRC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function info::writeLog(), 0 passed in D:\work\www.wx.com\info.php on line 25 and exactly 1 expected in D:\work\www.wx.com\info.php:29
+Stack trace:
+#0 D:\work\www.wx.com\info.php(25): info->writeLog()
+#1 D:\work\www.wx.com\info.php(3): info->__construct()
+#2 {main}
+  thrown in D:\work\www.wx.com\info.php on line 29
+[02-Mar-2019 20:26:58 PRC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function info::writeLog(), 0 passed in D:\work\www.wx.com\info.php on line 25 and exactly 1 expected in D:\work\www.wx.com\info.php:29
+Stack trace:
+#0 D:\work\www.wx.com\info.php(25): info->writeLog()
+#1 D:\work\www.wx.com\info.php(3): info->__construct()
+#2 {main}
+  thrown in D:\work\www.wx.com\info.php on line 29
+[02-Mar-2019 20:35:51 PRC] PHP Notice:  Undefined variable: config in D:\work\www.wx.com\info.php on line 29
+[02-Mar-2019 20:35:51 PRC] PHP Notice:  Undefined property: info::$ in D:\work\www.wx.com\info.php on line 29
+[02-Mar-2019 20:40:48 PRC] PHP Parse error:  syntax error, unexpected '}' in D:\work\www.wx.com\info.php on line 32
+[02-Mar-2019 21:02:34 PRC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function info::writeLog(), 1 passed in D:\work\www.wx.com\info.php on line 27 and exactly 2 expected in D:\work\www.wx.com\info.php:63
+Stack trace:
+#0 D:\work\www.wx.com\info.php(27): info->writeLog('<xml><ToUserNam...')
+#1 D:\work\www.wx.com\info.php(3): info->__construct()
+#2 {main}
+  thrown in D:\work\www.wx.com\info.php on line 63
+[02-Mar-2019 21:03:12 PRC] PHP Notice:  Undefined property: info::$text in D:\work\www.wx.com\info.php on line 38
+[02-Mar-2019 21:03:12 PRC] PHP Fatal error:  Uncaught Error: Call to undefined function Fun() in D:\work\www.wx.com\info.php:38
+Stack trace:
+#0 D:\work\www.wx.com\info.php(29): info->processingData()
+#1 D:\work\www.wx.com\info.php(3): info->__construct()
+#2 {main}
+  thrown in D:\work\www.wx.com\info.php on line 38
+[02-Mar-2019 21:03:38 PRC] PHP Fatal error:  Uncaught Error: Call to undefined function Fun() in D:\work\www.wx.com\info.php:38
+Stack trace:
+#0 D:\work\www.wx.com\info.php(29): info->processingData()
+#1 D:\work\www.wx.com\info.php(3): info->__construct()
+#2 {main}
+  thrown in D:\work\www.wx.com\info.php on line 38
+[02-Mar-2019 21:04:33 PRC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in D:\work\www.wx.com\info.php on line 39
+[02-Mar-2019 21:04:49 PRC] PHP Fatal error:  Uncaught Error: Call to undefined function Fun() in D:\work\www.wx.com\info.php:39
+Stack trace:
+#0 D:\work\www.wx.com\info.php(29): info->processingData()
+#1 D:\work\www.wx.com\info.php(3): info->__construct()
+#2 {main}
+  thrown in D:\work\www.wx.com\info.php on line 39
+[02-Mar-2019 21:05:44 PRC] PHP Notice:  Undefined property: info::$type in D:\work\www.wx.com\info.php on line 44
+[02-Mar-2019 21:05:44 PRC] PHP Notice:  Undefined property: info::$type in D:\work\www.wx.com\info.php on line 45
+[02-Mar-2019 21:05:44 PRC] PHP Notice:  Undefined index:  in D:\work\www.wx.com\info.php on line 56
+[02-Mar-2019 21:07:14 PRC] PHP Fatal error:  Uncaught Error: Call to undefined method info::fun() in D:\work\www.wx.com\info.php:41
+Stack trace:
+#0 D:\work\www.wx.com\info.php(31): info->processingData()
+#1 D:\work\www.wx.com\info.php(3): info->__construct()
+#2 {main}
+  thrown in D:\work\www.wx.com\info.php on line 41
+[02-Mar-2019 21:08:14 PRC] PHP Fatal error:  Uncaught Error: Call to undefined function textFun() in D:\work\www.wx.com\info.php:41
+Stack trace:
+#0 D:\work\www.wx.com\info.php(31): info->processingData()
+#1 D:\work\www.wx.com\info.php(3): info->__construct()
+#2 {main}
+  thrown in D:\work\www.wx.com\info.php on line 41
+[02-Mar-2019 21:09:02 PRC] PHP Notice:  Undefined variable: fun in D:\work\www.wx.com\info.php on line 40
+[02-Mar-2019 21:09:02 PRC] PHP Fatal error:  Uncaught Error: Method name must be a string in D:\work\www.wx.com\info.php:40
+Stack trace:
+#0 D:\work\www.wx.com\info.php(31): info->processingData()
+#1 D:\work\www.wx.com\info.php(3): info->__construct()
+#2 {main}
+  thrown in D:\work\www.wx.com\info.php on line 40
+[02-Mar-2019 21:09:51 PRC] PHP Notice:  Undefined property: info::$type in D:\work\www.wx.com\info.php on line 46
+[02-Mar-2019 21:09:51 PRC] PHP Notice:  Undefined property: info::$type in D:\work\www.wx.com\info.php on line 47
+[02-Mar-2019 21:09:51 PRC] PHP Notice:  Undefined index:  in D:\work\www.wx.com\info.php on line 58
+[02-Mar-2019 21:10:33 PRC] PHP Notice:  Undefined property: info::$type in D:\work\www.wx.com\info.php on line 45
+[02-Mar-2019 21:10:33 PRC] PHP Warning:  Illegal offset type in D:\work\www.wx.com\info.php on line 57
+[02-Mar-2019 21:11:00 PRC] PHP Warning:  Illegal offset type in D:\work\www.wx.com\info.php on line 57
+[02-Mar-2019 21:13:54 PRC] PHP Warning:  Illegal offset type in D:\work\www.wx.com\info.php on line 57
+[02-Mar-2019 21:13:54 PRC] PHP Warning:  Illegal offset type in D:\work\www.wx.com\info.php on line 58
+[02-Mar-2019 21:14:11 PRC] PHP Warning:  Illegal offset type in D:\work\www.wx.com\info.php on line 58
+[02-Mar-2019 21:14:37 PRC] PHP Warning:  Illegal offset type in D:\work\www.wx.com\info.php on line 58
+[02-Mar-2019 21:14:57 PRC] PHP Warning:  Illegal offset type in D:\work\www.wx.com\info.php on line 58
+[02-Mar-2019 21:16:55 PRC] PHP Warning:  Illegal offset type in D:\work\www.wx.com\info.php on line 57
+[02-Mar-2019 21:16:55 PRC] PHP Warning:  Illegal offset type in D:\work\www.wx.com\info.php on line 58
+[02-Mar-2019 21:18:14 PRC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ']' in D:\work\www.wx.com\info.php on line 57
+[02-Mar-2019 21:18:41 PRC] PHP Notice:  Trying to get property 'text' of non-object in D:\work\www.wx.com\info.php on line 57
+[02-Mar-2019 21:18:41 PRC] PHP Warning:  Illegal offset type in D:\work\www.wx.com\info.php on line 58
+[02-Mar-2019 21:18:54 PRC] PHP Warning:  Illegal offset type in D:\work\www.wx.com\info.php on line 58
+[02-Mar-2019 21:19:46 PRC] PHP Notice:  Undefined variable: mgs in D:\work\www.wx.com\info.php on line 49
+[02-Mar-2019 21:39:20 PRC] PHP Warning:  sprintf(): Too few arguments in D:\work\www.wx.com\info.php on line 116
+[02-Mar-2019 21:39:25 PRC] PHP Warning:  sprintf(): Too few arguments in D:\work\www.wx.com\info.php on line 116
+[02-Mar-2019 21:50:24 PRC] PHP Fatal error:  Uncaught Error: Call to a member function getConnect() on integer in D:\work\www.wx.com\info.php:52
+Stack trace:
+#0 D:\work\www.wx.com\info.php(39): info->textFun()
+#1 D:\work\www.wx.com\info.php(31): info->processingData()
+#2 D:\work\www.wx.com\info.php(3): info->__construct()
+#3 {main}
+  thrown in D:\work\www.wx.com\info.php on line 52
+[02-Mar-2019 21:50:55 PRC] PHP Recoverable fatal error:  Object of class info could not be converted to string in D:\work\www.wx.com\info.php on line 55
+[02-Mar-2019 21:56:35 PRC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting ',' or ')' in D:\work\www.wx.com\info.php on line 57
+[02-Mar-2019 21:57:57 PRC] PHP Fatal error:  Uncaught Error: Call to undefined method info::eventFun() in D:\work\www.wx.com\info.php:39
+Stack trace:
+#0 D:\work\www.wx.com\info.php(31): info->processingData()
+#1 D:\work\www.wx.com\info.php(3): info->__construct()
+#2 {main}
+  thrown in D:\work\www.wx.com\info.php on line 39
+[03-Mar-2019 10:00:44 PRC] PHP Notice:  curl_setopt(): CURLOPT_SSL_VERIFYHOST no longer accepts the value 1, value 2 will be used instead in D:\work\www.wx.com\curl.php on line 13
+[03-Mar-2019 10:00:44 PRC] PHP Fatal error:  Uncaught Exception: SSL certificate problem: unable to get local issuer certificate in D:\work\www.wx.com\curl.php:19
+Stack trace:
+#0 {main}
+  thrown in D:\work\www.wx.com\curl.php on line 19
+[03-Mar-2019 10:00:58 PRC] PHP Fatal error:  Uncaught Exception: SSL certificate problem: unable to get local issuer certificate in D:\work\www.wx.com\curl.php:19
+Stack trace:
+#0 {main}
+  thrown in D:\work\www.wx.com\curl.php on line 19
+[03-Mar-2019 10:09:55 PRC] PHP Parse error:  syntax error, unexpected '$Bs' (T_VARIABLE) in D:\work\www.wx.com\curl.php on line 4
+[03-Mar-2019 10:35:14 PRC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ')' in D:\work\www.wx.com\curl.php on line 16
+[03-Mar-2019 10:35:36 PRC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ')' in D:\work\www.wx.com\curl.php on line 22
+[03-Mar-2019 10:35:37 PRC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ')' in D:\work\www.wx.com\curl.php on line 22
+[03-Mar-2019 10:35:45 PRC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in D:\work\www.wx.com\curl.php on line 23
+[03-Mar-2019 10:35:52 PRC] PHP Fatal error:  Uncaught Exception: SSL certificate problem: unable to get local issuer certificate in D:\work\www.wx.com\curl.php:28
+Stack trace:
+#0 {main}
+  thrown in D:\work\www.wx.com\curl.php on line 28
+[03-Mar-2019 10:44:01 PRC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in D:\work\www.wx.com\demo.php on line 3
+[03-Mar-2019 10:48:03 PRC] PHP Parse error:  syntax error, unexpected ';', expecting ']' in D:\work\www.wx.com\curl.php on line 27
+[03-Mar-2019 10:48:11 PRC] PHP Parse error:  syntax error, unexpected ';', expecting ']' in D:\work\www.wx.com\curl.php on line 27
+[03-Mar-2019 10:58:11 PRC] PHP Fatal error:  Uncaught Exception in D:\work\www.wx.com\curl.php:46
+Stack trace:
+#0 {main}
+  thrown in D:\work\www.wx.com\curl.php on line 46
+[03-Mar-2019 10:58:53 PRC] PHP Fatal error:  Uncaught Exception in D:\work\www.wx.com\curl.php:46
+Stack trace:
+#0 {main}
+  thrown in D:\work\www.wx.com\curl.php on line 46
+[03-Mar-2019 10:58:53 PRC] PHP Fatal error:  Uncaught Exception in D:\work\www.wx.com\curl.php:46
+Stack trace:
+#0 {main}
+  thrown in D:\work\www.wx.com\curl.php on line 46
+[03-Mar-2019 10:59:11 PRC] PHP Fatal error:  Uncaught Exception in D:\work\www.wx.com\curl.php:46
+Stack trace:
+#0 {main}
+  thrown in D:\work\www.wx.com\curl.php on line 46
+[03-Mar-2019 11:00:49 PRC] PHP Fatal error:  Uncaught Exception in D:\work\www.wx.com\curl.php:46
+Stack trace:
+#0 {main}
+  thrown in D:\work\www.wx.com\curl.php on line 46
+[03-Mar-2019 03:31:05 UTC] PHP Warning:  Module 'openssl' already loaded in Unknown on line 0
+[03-Mar-2019 11:51:54 PRC] PHP Parse error:  syntax error, unexpected '}', expecting ';' in D:\work\www.wx.com\chat.php on line 80
+[03-Mar-2019 03:53:55 UTC] PHP Warning:  Module 'openssl' already loaded in Unknown on line 0
+[03-Mar-2019 11:54:12 PRC] PHP Fatal error:  Uncaught Error: Unsupported operand types in D:\work\www.wx.com\chat.php:19
+Stack trace:
+#0 D:\work\www.wx.com\chat.php(3): chat->__construct()
+#1 {main}
+  thrown in D:\work\www.wx.com\chat.php on line 19
+[03-Mar-2019 11:54:25 PRC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function chat::http_request(), 1 passed in D:\work\www.wx.com\chat.php on line 27 and at least 2 expected in D:\work\www.wx.com\chat.php:30
+Stack trace:
+#0 D:\work\www.wx.com\chat.php(27): chat->http_request('https://api.wei...')
+#1 D:\work\www.wx.com\chat.php(20): chat->getAccessToken()
+#2 D:\work\www.wx.com\chat.php(3): chat->__construct()
+#3 {main}
+  thrown in D:\work\www.wx.com\chat.php on line 30
+[03-Mar-2019 11:54:41 PRC] PHP Warning:  Illegal string offset 'pic' in D:\work\www.wx.com\chat.php on line 34
+[03-Mar-2019 11:54:41 PRC] PHP Recoverable fatal error:  Object of class CURLFile could not be converted to string in D:\work\www.wx.com\chat.php on line 34
+[03-Mar-2019 11:55:28 PRC] PHP Notice:  Undefined variable: curl in D:\work\www.wx.com\chat.php on line 42
+[03-Mar-2019 11:55:28 PRC] PHP Warning:  Use of undefined constant BS - assumed 'BS' (this will throw an Error in a future version of PHP) in D:\work\www.wx.com\chat.php on line 48
+[03-Mar-2019 11:55:28 PRC] PHP Fatal error:  Uncaught Exception: <url> malformed in D:\work\www.wx.com\chat.php:79
+Stack trace:
+#0 D:\work\www.wx.com\chat.php(27): chat->http_request('https://api.wei...')
+#1 D:\work\www.wx.com\chat.php(20): chat->getAccessToken()
+#2 D:\work\www.wx.com\chat.php(3): chat->__construct()
+#3 {main}
+  thrown in D:\work\www.wx.com\chat.php on line 79
+[03-Mar-2019 11:55:50 PRC] PHP Warning:  Use of undefined constant BS - assumed 'BS' (this will throw an Error in a future version of PHP) in D:\work\www.wx.com\chat.php on line 48
+[03-Mar-2019 11:55:50 PRC] PHP Fatal error:  Uncaught Exception: SSL certificate problem: unable to get local issuer certificate in D:\work\www.wx.com\chat.php:79
+Stack trace:
+#0 D:\work\www.wx.com\chat.php(27): chat->http_request('https://api.wei...')
+#1 D:\work\www.wx.com\chat.php(20): chat->getAccessToken()
+#2 D:\work\www.wx.com\chat.php(3): chat->__construct()
+#3 {main}
+  thrown in D:\work\www.wx.com\chat.php on line 79
+[03-Mar-2019 11:56:25 PRC] PHP Fatal error:  Uncaught Exception: SSL certificate problem: unable to get local issuer certificate in D:\work\www.wx.com\chat.php:80
+Stack trace:
+#0 D:\work\www.wx.com\chat.php(28): chat->http_request('https://api.wei...')
+#1 D:\work\www.wx.com\chat.php(21): chat->getAccessToken()
+#2 D:\work\www.wx.com\chat.php(3): chat->__construct()
+#3 {main}
+  thrown in D:\work\www.wx.com\chat.php on line 80
+[03-Mar-2019 11:58:17 PRC] PHP Fatal error:  Uncaught Exception: SSL certificate problem: unable to get local issuer certificate in D:\work\www.wx.com\chat.php:80
+Stack trace:
+#0 D:\work\www.wx.com\chat.php(28): chat->http_request('https://api.wei...')
+#1 D:\work\www.wx.com\chat.php(21): chat->getAccessToken()
+#2 D:\work\www.wx.com\chat.php(3): chat->__construct()
+#3 {main}
+  thrown in D:\work\www.wx.com\chat.php on line 80
+[03-Mar-2019 11:59:47 PRC] PHP Parse error:  syntax error, unexpected 'curl_setopt' (T_STRING) in D:\work\www.wx.com\chat.php on line 48
+[03-Mar-2019 14:22:37 PRC] PHP Warning:  MemcachePool::get(): No servers added to memcache connection in D:\work\www.wx.com\chat.php on line 30
+[03-Mar-2019 14:22:38 PRC] PHP Warning:  MemcachePool::set(): No servers added to memcache connection in D:\work\www.wx.com\chat.php on line 33
+[03-Mar-2019 14:22:38 PRC] PHP Fatal error:  Uncaught Error: Call to undefined method chat::get() in D:\work\www.wx.com\chat.php:36
+Stack trace:
+#0 D:\work\www.wx.com\chat.php(21): chat->getAccessToken()
+#1 D:\work\www.wx.com\chat.php(3): chat->__construct()
+#2 {main}
+  thrown in D:\work\www.wx.com\chat.php on line 36
+[03-Mar-2019 14:23:27 PRC] PHP Fatal error:  Uncaught Error: Call to undefined method chat::get() in D:\work\www.wx.com\chat.php:37
+Stack trace:
+#0 D:\work\www.wx.com\chat.php(21): chat->getAccessToken()
+#1 D:\work\www.wx.com\chat.php(3): chat->__construct()
+#2 {main}
+  thrown in D:\work\www.wx.com\chat.php on line 37
